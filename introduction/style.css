@@ -9,3 +9,9 @@ body {
   min-height: 100dvh;
   background-color: black;
 }
+
+.intro {
+  min-height: 100dvh;
+  width: 100%;
+  background-color: black;
+}
