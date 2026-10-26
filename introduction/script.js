@@ -1,0 +1,1 @@
+console.log("Wonder Revealed is awakening ...");
